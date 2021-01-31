@@ -1,3 +1,0 @@
-/mnt/c/Users/xpcai/OneDrive/Documents/selflearning/cplusplus/Chatbot/CppND-Memory-Management-Chatbot-master/build/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/xpcai/OneDrive/Documents/selflearning/cplusplus/Chatbot/CppND-Memory-Management-Chatbot-master/build/CMakeFiles/membot.dir
-/mnt/c/Users/xpcai/OneDrive/Documents/selflearning/cplusplus/Chatbot/CppND-Memory-Management-Chatbot-master/build/CMakeFiles/edit_cache.dir
